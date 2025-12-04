@@ -19,6 +19,7 @@ Assess job satisfaction patterns across job categories
 
 Support HR leaders in making strategic workforce decisions
 
+
 📌 Key Insights Highlighted in the Dashboard
 
 1️⃣ Overall HR Metrics
@@ -102,6 +103,7 @@ Over 55
 
 Useful for understanding age–gender interactions in attrition trends.
 
+
 🛠️ Tools & Technologies Used
 
 Tableau Desktop / Tableau Public
@@ -109,6 +111,7 @@ Tableau Desktop / Tableau Public
 Data cleaning & preprocessing (optional): Excel / Python / Pandas
 
 Data Source: HR Employee Attrition Dataset
+
 
 📈 Key Outcomes
 
